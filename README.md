@@ -5,7 +5,7 @@ Desgined for new, portable, massive, systems.
 v0.2 is here! It allows inline ARM64 Keyword! new *asm* keyword! Usage for it is as follows:
 
 asm {
-    <body>
+    \<body\>
 };
 
 # Goals
