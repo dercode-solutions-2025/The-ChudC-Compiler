@@ -2,7 +2,7 @@
 Desgined for new, portable, massive, systems.
 
 # News
-v0.2 is here! It allows inline ARM64 with the new *asm* keyword! Usage for it is as follows:
+v0.2 is here! It allows for inline ARM64 with the new *asm* keyword! Usage for it is as follows:
 
 asm {
     \<body\>
