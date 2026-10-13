@@ -1,7 +1,9 @@
 # The-ChudC-Compiler
 Desgined for new, portable, massive, systems.
+
 # News
-v0.2 is here! It allows inline ARM64 with the **asm** keyword!
+v0.2 is here! It allows inline ARM64 Keyword! new *asm* keyword!
+
 # Goals
 v0.1 - Basic return statements, functions can only be declared with "int". [X] \
 v0.2 - Inline ARM64 [X] \
